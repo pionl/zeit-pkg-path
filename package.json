@@ -1,0 +1,20 @@
+{
+  "name": "zeit-pkg-path",
+  "version": "1.0.0",
+  "description": "Helps to resolve paths when using pkg (detects if using packaged app or testing via node cli.js)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pionl/zeit-pkg-path.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pkg",
+    "nodejs",
+    "path"
+  ],
+  "author": "Martin Kluska <martin@kluska.cz>",
+  "license": "MIT"
+}
