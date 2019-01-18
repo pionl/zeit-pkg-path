@@ -25,8 +25,7 @@ node cli.js
 # /root/test/test.png
 ```
 
-
-## Install
+## Install
 
 ```
 npm install zeit-pkg-path
